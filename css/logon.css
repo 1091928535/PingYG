@@ -1,0 +1,111 @@
+.dividing {
+    height: 31px;
+    background-color: #333;
+}
+
+.registry {
+    height: 75px;
+    line-height: 75px;
+    border-bottom: 1px solid #ccc;
+}
+
+.registry h3 {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.registry_l {
+    float: left;
+}
+
+.registry_l a {
+    color: #ff464e;
+    font-size: 14px;
+}
+
+.registry_r {
+    float: right;
+}
+
+.registry_r a {
+    color: #1f78b7;
+    font-size: 14px;
+}
+
+.logon_center {
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.logon_center ul {
+    border-bottom: 1px solid #ccc;
+}
+
+.logon_center li {
+    width: 550px;
+    height: 38px;
+    margin: 0 auto;
+    text-align: right;
+    margin-bottom: 40px;
+}
+
+.user p {
+    display: inline;
+}
+
+.user i {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    background: url(../../JS案例/image/新浪注册.png);
+}
+
+.logon_center li .user input {
+    width: 320px;
+    height: 35px;
+    padding-left: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.logon_center .ck {
+    text-align: center;
+    padding-left: 46px;
+}
+
+.ck input {
+    vertical-align: -2px;
+}
+
+.registration {
+    width: 200px;
+    height: 35px;
+    background-color: #ff464e;
+    margin: 0 auto;
+    line-height: 35px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 16px;
+}
+
+.mod_copyright {
+    width: 100%;
+    height: 50px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.mod_copyright p {
+    margin-bottom: 10px;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
